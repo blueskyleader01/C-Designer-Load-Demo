@@ -1,0 +1,8 @@
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\bin\Debug\BadDesignerLoad.exe.config
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\bin\Debug\BadDesignerLoad.exe
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\bin\Debug\BadDesignerLoad.pdb
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\obj\Debug\BadDesignerLoad.Properties.Resources.resources
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\obj\Debug\BadDesignerLoad.csproj.GenerateResource.Cache
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\obj\Debug\BadDesignerLoad.exe
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\obj\Debug\BadDesignerLoad.pdb
+C:\Throwaway\BadDesignerLoad\BadDesignerLoad\obj\Debug\BadDesignerLoad.Form1.resources
